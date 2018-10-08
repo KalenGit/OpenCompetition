@@ -23,3 +23,5 @@
 |--|--|--|--|--|
 |[第十名 万里阳光号](https://github.com/moneyDboat/data_grand)|[第十一](https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11)|[第十八](https://github.com/nlpjoe/daguan-classify-2018)|
 
+## 2018-腾讯广告算法大赛-相似人群拓展：
+[第十名](https://github.com/ShawnyXiao/2018-Tencent-Lookalike)
