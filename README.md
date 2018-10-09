@@ -25,3 +25,6 @@
 
 ## 2018-腾讯广告算法大赛-相似人群拓展：
 [第十名](https://github.com/ShawnyXiao/2018-Tencent-Lookalike)
+
+## [IJCAI-18 阿里妈妈搜索广告转化预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afLYj1C9&raceId=231647)
+[第二名](https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution?spm=5176.9876270.0.0.2864e44arFlVvg)
